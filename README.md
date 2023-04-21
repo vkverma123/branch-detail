@@ -5,7 +5,7 @@
 # npm install
 # npm run dev
 
-It's a UI without any backend. The data shown in the UI is just the mock data. PFA the images.
+# It's a UI without any backend. The data shown in the UI is just the mock data. PFA the images.
 
 <img width="1064" alt="Screen Shot 2566-03-31 at 14 29 54" src="https://user-images.githubusercontent.com/87823879/233625569-b194e400-0a9a-4199-a243-743f18888389.png">
 <img width="1142" alt="Screen Shot 2566-03-31 at 14 30 11" src="https://user-images.githubusercontent.com/87823879/233625584-9ced82ec-fd89-4a09-821b-f5b23ec32113.png">
